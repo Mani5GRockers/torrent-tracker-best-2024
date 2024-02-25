@@ -1,0 +1,11 @@
+udp://tracker.hificode.in:1999/announce
+udp://tracker.hificode.in:6881/announce
+udp://tracker.hificode.in:7979/announce
+udp://opentracker.hificode.in:6969/announce
+udp://tracker.hificode.in:2710/announce
+udp://tracker.hificode.in:1337/announce
+udp://tracker.hificode.in:1333/announce
+udp://tracker.opentrackr.org:1337/announce
+udp://tracker.moeking.me:6969/announce
+udp://tracker.fnix.net:6969/announce
+http://tracker.gbitt.info:80/announce
