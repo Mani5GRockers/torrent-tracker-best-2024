@@ -18,8 +18,4 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://anidex.moe:6969/announce
-
 http://tracker.gbitt.info:80/announce
