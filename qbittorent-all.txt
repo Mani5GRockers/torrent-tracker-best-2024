@@ -16,6 +16,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://anidex.moe:6969/announce
